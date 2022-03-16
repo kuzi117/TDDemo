@@ -1,3 +1,3 @@
-# TD_Demo
+# TDDemo
 
-Developed with Unreal Engine 4
+A tech demo for a tower defense game in Unreal Engine 4.
